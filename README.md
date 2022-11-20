@@ -17,6 +17,19 @@ According to recent movies in the sites such as IDMB and Box office Mojo we can 
 
 In order to achive this we need to survey different movie sites that have the information on which types of films to create by assessing what movies are liked and not only that and why thare liked, Hence it will create an easy understanding for Microsoft Studio can generate movies towards the influence of the fan base.
 
+# Data Understanding
+## Data
+The data used in this project was retrieved from various dataset and an imdb database this data comnatained various movies along with their characteristics such as genres the directors and othe information as well as numerical values like the gross in order to know how much they cost to create 
+
+## Data Preparation 
+The various data sets were cleaned by checking for missing values and null values also duplicates were removed together with conversions of some categorical and numerical data we also did EDA which could help as compare and see the whether there are patterns
+
+
+
+
+
+
+
 ## Conclusion
 1. Movies with a highbudget income tend to bring high profit income 
 2. Highly rated movies tend to give high profits
