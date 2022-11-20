@@ -1,10 +1,10 @@
 # Microsoft_MovieStudio
 ## Introduction.
-The following project was on the Data analysis and modelling of a Microsoft Studio. The project followed the CRISP-DM frame work as shown.
-
-
-![image](https://user-images.githubusercontent.com/117159791/202134144-17df69de-ce06-4726-930c-97bfaf87a0c8.png)
-
+The following project was on the Data analysis of a Microsoft Studio. The project followed the following.
+- Data selection
+- Data cleaning
+- Data analysis
+- Data visualization
 
 ## Business Understanding:
 ### Problem:
